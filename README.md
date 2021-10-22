@@ -10,7 +10,6 @@ the edges
 # Evidence
 https://cvilleschools.onshape.com/documents/3a7bda1412c8a84cea9338a8/w/545f68b0c85315e8c036efaf/e/75141e9f4cfdb3e77f773b76
 
-
-
 #Image
+
 <img src="images/Trucks.png" width="200">
