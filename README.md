@@ -31,3 +31,8 @@ The wheel was much easier than the trucks, all it composed of was one sketch, a 
 
 # Evidence
 https://cvilleschools.onshape.com/documents/3a7bda1412c8a84cea9338a8/w/545f68b0c85315e8c036efaf/e/40c6aa85cd43b3fe5a2cf03b
+
+
+# Image
+<img src="images/FinalSkateboard.png" width="200">
+
