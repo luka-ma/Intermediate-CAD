@@ -43,7 +43,7 @@ The skateboard was basically everything I learned last year on onshape, It used 
 https://cvilleschools.onshape.com/documents/3a7bda1412c8a84cea9338a8/w/545f68b0c85315e8c036efaf/e/617ee0be7b9ca6d7f1a37e35
 
 # Image
-<img src="images/lego.png" width="200">
+<img src="images/LegoB.png" width="200">
 
 # Reflection
 The lego was very easy to build, it took me about 20 mins
