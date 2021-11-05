@@ -50,3 +50,13 @@ The lego was very easy to build, it took me about 20 mins
 
 # Evidence
 https://cvilleschools.onshape.com/documents/963d2209c43a357a4de867f3/w/88ab3796c5d53341b7b41ab7/e/20632b68692226286fd9c143
+
+
+#  Image
+<img src="images/Table.png" width="200">
+
+# Reflection
+The Configuration Table was very useful to have multiple types of bricks. It took a decent amount of time to set it up though.
+
+# Evidence
+https://cvilleschools.onshape.com/documents/963d2209c43a357a4de867f3/w/88ab3796c5d53341b7b41ab7/e/20632b68692226286fd9c143
